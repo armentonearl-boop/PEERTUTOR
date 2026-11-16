@@ -56,8 +56,8 @@ If you imported an older `database.sql` before, run `update_activity_logs.sql` o
 
 ## Testing
 
-See `TEST_CHECKLIST.md` for the list of things we tested.
+See `TEST_CHECKLIST.md` for the list of things we tested
 
 ## Author
 
-Capstone project - add your name, section and school year here.
+Capstone project - EARL VINCENT ARMENTON / DBSYS SY:2026-2027 
